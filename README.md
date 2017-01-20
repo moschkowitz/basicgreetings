@@ -1,0 +1,2 @@
+# basicgreetings
+test init.ai
